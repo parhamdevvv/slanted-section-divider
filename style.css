@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.bullshit {
+  height:50rem;
+  background:rgb(89, 131, 89);
+}
+.next {
+  background: linear-gradient(145deg, rgba(126,239,255,1) 2%, rgba(255,160,235,1) 100%);
+  clip-path: polygon(0 0, 100% 10rem, 100% 100%, 0% 100%);
+  padding-top:10rem;
+  margin-top:-10rem;
+  text-align: center;
+  padding-inline:2rem;
+  padding-bottom:20rem;
+}
